@@ -71,3 +71,12 @@ footer {
   font-size: 14px;
   background-color: #eaeaea;
 }
+.foto-perfil {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  margin: 15px auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
